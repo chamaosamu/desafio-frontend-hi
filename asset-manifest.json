@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/desafio-frontend-hi/static/js/main.3840e55a.chunk.js",
+    "main.js.map": "/desafio-frontend-hi/static/js/main.3840e55a.chunk.js.map",
+    "runtime-main.js": "/desafio-frontend-hi/static/js/runtime-main.f2881818.js",
+    "runtime-main.js.map": "/desafio-frontend-hi/static/js/runtime-main.f2881818.js.map",
+    "static/js/2.5d06ed1a.chunk.js": "/desafio-frontend-hi/static/js/2.5d06ed1a.chunk.js",
+    "static/js/2.5d06ed1a.chunk.js.map": "/desafio-frontend-hi/static/js/2.5d06ed1a.chunk.js.map",
+    "index.html": "/desafio-frontend-hi/index.html",
+    "static/js/2.5d06ed1a.chunk.js.LICENSE.txt": "/desafio-frontend-hi/static/js/2.5d06ed1a.chunk.js.LICENSE.txt",
+    "static/media/checked.761a8d6b.svg": "/desafio-frontend-hi/static/media/checked.761a8d6b.svg",
+    "static/media/minus.a054f478.svg": "/desafio-frontend-hi/static/media/minus.a054f478.svg",
+    "static/media/over.91c27b40.svg": "/desafio-frontend-hi/static/media/over.91c27b40.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2881818.js",
+    "static/js/2.5d06ed1a.chunk.js",
+    "static/js/main.3840e55a.chunk.js"
+  ]
+}
